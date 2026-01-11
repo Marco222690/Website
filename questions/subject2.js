@@ -267,7 +267,7 @@ quizData.subject2 = [
     {
         type: "text",
         question: "traditional weaving from ilocos known for softness and durability",
-        correctText: "inabel ",
+        correctText: "inabel",
     },
     {
         type: "text",
