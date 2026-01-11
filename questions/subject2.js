@@ -194,7 +194,7 @@ quizData.subject2 = [
     {
         type: "text",
         question: "Ibigay ang IKATLONG Function of Arts:",
-        correctText: "physical function"
+        correctText: "physical needs"
     },
     {
         type: "text",
@@ -240,68 +240,68 @@ quizData.subject2 = [
     {
         type: "text",
         question: "art created in the present time or today",
-        correctText: "Contemporary Arts",
+        correctText: "contemporary arts",
     },
     {
         type: "text",
         question: "function of art that expresses personal feelings and emotions",
-        correctText: "Personal Function",
+        correctText: "personal function",
     },
     {
         type: "text",
         question: "function of art that addresses social issues and community needs",
-        correctText: "Social Function",
+        correctText: "social function",
     },
     {
         type: "text",
         question: "period from 1946-1969 focusing on national identity",
-        correctText: "Modern Era (Sining)",
+        correctText: "modern era ",
     },
     {
         type: "text",
         question: "traditional art of indigenous people for daily life",
-        correctText: "Ethnic Art"
+        correctText: "ethnic art"
     },
 
     // Regional Arts Def (61-65)
     {
         type: "text",
         question: "traditional weaving from ilocos known for softness and durability",
-        correctText: "Inabel (o Abel)",
+        correctText: "inabel ",
     },
     {
         type: "text",
         question: "flower festival in baguio meaning season of blooming",
-        correctText: "Panagbenga",
+        correctText: "panagbenga",
     },
     {
         type: "text",
         question: "colorful boats from zamboanga used for transportation and fishing",
-        correctText: "Vinta Boats",
+        correctText: "vinta boats",
     },
     {
         type: "text",
         question: "interactive 3d art museum in quezon city",
-        correctText: "Art in Island",
+        correctText: "art in island",
     },
     {
         type: "text",
         question: "religious cultural dance ritual in cebu meaning graceful dance",
-        correctText: "Sinulog",
+        correctText: "sinulog",
     },
     {
         type: "text",
         question: "interactive 3d art museum in quezon city",
-        correctText: "Art in Island",
+        correctText: "art in island",
     },
     {
         type: "text",
         question: "colorful boats from zamboanga used for transportation and fishing",
-        correctText: "Vinta Boats",
+        correctText: "vinta boats",
     },
     {
         type: "text",
         question: "religious cultural dance ritual in cebu meaning graceful dance",
-        correctText: "Sinulog"
+        correctText: "sinulog"
     }
 ];
